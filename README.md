@@ -6,14 +6,14 @@
  - CSS
  - HTML
 
-##Home:
+## Home:
 Ná página principal, lista-se os 10 filmes mais populares da atualidade.
 
-##Detalhes do filme:
+## Detalhes do filme:
 Na página de detalhes, estão listados os detalhes a fundo do filme, como sinopse, produtoras que produziram o filme, etc.
 
 
 
-###Acesse a aplicação abaixo:
+### Acesse a aplicação abaixo:
 
 ItegraFLix:(https://brunopontsz.github.io/itegraflix/)
